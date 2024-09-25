@@ -4,7 +4,7 @@ import csv
 # API endpoint and headers
 url = "https://jobs-api14.p.rapidapi.com/list"
 headers = {
-    "x-rapidapi-key": "8ca3a19cd8msh12567b3f1ed149fp11ef1djsn96fd75140c35",
+    "x-rapidapi-key": 
     "x-rapidapi-host": "jobs-api14.p.rapidapi.com"
 }
 
